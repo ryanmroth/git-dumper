@@ -654,7 +654,7 @@ def main():
         "-u",
         "--user-agent",
         type=str,
-        default="Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0",
+        default="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
         help="user-agent to use for requests",
     )
     parser.add_argument(
